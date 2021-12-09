@@ -1,0 +1,5 @@
+root - INFO - Comment line found and skipped
+root - INFO - p line found: SUCCESS
+root - INFO - Number of Spin and Number of Weights are well read: SUCCESS
+root - INFO - Total energies and Spin states were calculated: SUCCESS
+root - INFO - Results are saved to output_test01.txt: SUCCESS
