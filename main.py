@@ -14,7 +14,7 @@ Must be used as "python path_to_input_file"
 import argparse
 import logging
 import os
-from helper_functions import *
+from helper_functions import input_reader, mc_iteration, state_converter
 
 logging.basicConfig(
     filename='ising_model_running.log',
